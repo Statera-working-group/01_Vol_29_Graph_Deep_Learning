@@ -107,7 +107,7 @@ Head of AI, Hills Robotics
 Statera Working Group
 
 **Personal / Research Contact:**  
-gminsoo888@gmail.com
+gominsoo888@gmail.com
 
 **Hills Robotics / Business Contact:**  
 minsoo.go@hillslogis.com
@@ -233,7 +233,7 @@ Head of AI, Hills Robotics
 Statera Working Group
 
 **개인 / 연구 연락처:**  
-gminsoo888@gmail.com
+gominsoo888@gmail.com
 
 **Hills Robotics / 비즈니스 연락처:**  
 minsoo.go@hillslogis.com
